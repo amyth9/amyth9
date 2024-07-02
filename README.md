@@ -1,5 +1,5 @@
 <h1> Hey there! :wave:<br>
-I am <a href="https://amit-ramrakhyani.github.io/resume/cv.pdf" target="_blank">Amit Ramrakhyani</a></h1>
+I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani</a></h1>
 
 ### :man_technologist: About Me
 :mag: A CSE sophomore with keen interest in coding, robotics, astronomy and rocket science.
