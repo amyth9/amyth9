@@ -88,18 +88,32 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 </div>
 <!--- trophy (start) -->
 
+<br/>
 
 </p>        
 <!--- stats (end) -->
-
+<div align="center">
+<h2 align="center">😎 Top Skills 😎</h2>
+    <div align="center">
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+        <a href="tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+        <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+        <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-%2335495e.svg?style=for-the-badge" /></a>
+    </div>
+    <div align="center">
+        <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+        <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+    </div>
+</div>
+<br/>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
   </ul>
-</div>
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp;
@@ -135,7 +149,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>&nbsp;
   <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" /></a><br>
 </p>
-
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
