@@ -106,34 +106,34 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>&nbsp;
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=firebase" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=flask" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=express" /></a><br>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=postman" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=vercel" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=arduino" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=ros" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=java" /></a><br>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=md" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=discord" /></a>&nbsp;
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=notion" /></a><br>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/"><img src="https://skillicons.dev/icons?i=flask" /></a>&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a><br>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>&nbsp;
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>&nbsp;
+  <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>&nbsp;
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>&nbsp;
+  <a href="https://html.com/"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
+  <a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
+  <a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros" /></a>&nbsp;
+  <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a><br>
+  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" /></a>&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
+  <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>&nbsp;
+  <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" /></a><br>
 </p>
 
 
