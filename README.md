@@ -16,8 +16,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Amit-Ramrakhyani&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=Amit-Ramrakhyani&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)  
 </div>
 
 <!--h1 without bottom border-->
