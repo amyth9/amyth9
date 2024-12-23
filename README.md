@@ -42,20 +42,15 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Python, LangChain, Py-Torch**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to build scalable AI systems for business.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've a keen interest in generative AI and cloud computing. So, I'm currently learning **AWS**
 
 - 📝 I am active on [LinkedIn](https://www.linkedin.com/in/amitramrakhyani/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
 - 📫 Feel free to reach me out **[amit.ramrakhyani1109@gmail.com](mailto:amit.ramrakhyani1109@gmail.com)**
-
-<!---- 🏠 Don't hesitate to drop me a **👋** on Discord –  [itsam5046](https://discordapp.com/users/) my username!-->
-<!--Intro end-->
 
 
 
