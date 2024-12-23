@@ -25,10 +25,12 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
     <summary><h1 style="display: inline-block">Hi 👋, I'm <a href="https://www.amitramrakhyani.me/" target="_blank">Amit</a></h1></summary>
   </ul>
 
-<!--- snake -->
+<!--- snake 
 <p align = "center">
-	![Snake animation](https://github.com/Amit-Ramrakhyani/Amit-Ramrakhyani/blob/output/github-contribution-grid-snake.svg)
-</p>
+<!-- 	<img src = "https://github.com/Amit-Ramrakhyani/Amit-Ramrakhyani/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/> -->
+<!-- </p> -->
+
+![Snake animation](https://github.com/Amit-Ramrakhyani/Amit-Ramrakhyani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
