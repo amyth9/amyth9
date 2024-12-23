@@ -43,11 +43,9 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, LangChain, Py-Torch**
 
-- 🌱 I’m currently learning **to build scalable AI systems for business.**
+- 🌱 I’m currently learning **Generative AI, Cybersecurity, AWS**
 
-- ☁️ I have a keen interest in generative AI on cloud computing. So, I'm currently learning **AWS**
-
-- 📝 I am active on [LinkedIn](https://www.linkedin.com/in/amitramrakhyani/)
+- 💬 Ask me about **Python, AI, Machine Learning, Deep Learning, MLOps**
 
 - 📫 Feel free to reach me out **[amit.ramrakhyani1109@gmail.com](mailto:amit.ramrakhyani1109@gmail.com)**
 
