@@ -46,7 +46,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 
 - 🌱 I’m currently learning **to build scalable AI systems for business.**
 
-- ☁️ I've a keen interest in generative AI and cloud computing. So, I'm currently learning **AWS**
+- ☁️ I have a keen interest in generative AI on cloud computing. So, I'm currently learning **AWS**
 
 - 📝 I am active on [LinkedIn](https://www.linkedin.com/in/amitramrakhyani/)
 
