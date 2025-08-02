@@ -22,7 +22,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm <a href="https://www.amitramrakhyani.me/" target="_blank">Amit</a></h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm <a href="https://amitramrakhyani.vercel.app/" target="_blank">Amit</a></h1></summary>
   </ul>
 
 <!-- ![Snake animation](https://github.com/Amit-Ramrakhyani/Amit-Ramrakhyani/blob/output/github-contribution-grid-snake.svg) -->
