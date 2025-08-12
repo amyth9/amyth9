@@ -45,11 +45,11 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, LangChain, Py-Torch**
+- 🔭 I’m currently working on **Python, LangChain, Supabase**
 
-- 🌱 I’m currently learning **Generative AI, Cybersecurity, AWS**
+- 🌱 I’m currently learning **React Native, Nextjs, AWS**
 
-- 💬 Ask me about **Python, AI, Machine Learning, Deep Learning, MLOps**
+- 💬 Ask me about **Python, Generative AI, Mobile App Development, SaaS**
 
 - 📫 Feel free to reach me out **[amit.ramrakhyani1109@gmail.com](mailto:amit.ramrakhyani1109@gmail.com)**
 
@@ -100,16 +100,17 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 <div align="center">
 <h2 align="center">😎 Top Skills 😎</h2>
     <div align="center">
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
-        <a href="tensorflow.org"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-        <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
         <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-%2335495e.svg?style=for-the-badge" /></a>
+        <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /></a>
+        <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
     </div>
     <div align="center">
-        <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-        <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-        <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+        <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></a>
+        <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+        <a href="https://expo.dev/"><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
     </div>
 </div>
 <br/>
@@ -122,36 +123,38 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 <!--tech stack icons-->
 <p align="center">
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>&nbsp;
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
-  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>&nbsp;
-  <a href="https://flask.palletsprojects.com/en/"><img src="https://skillicons.dev/icons?i=flask" /></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" /></a>&nbsp;
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>&nbsp;
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>&nbsp;
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>&nbsp;
+  <a href="https://flask.palletsprojects.com/en/"><img src="https://skillicons.dev/icons?i=flask" /></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a><br>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>&nbsp;
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>&nbsp;
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>&nbsp;
-  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>&nbsp;
-  <a href="https://www.raspberrypi.org/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>&nbsp;
   <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" /></a>&nbsp;
   <a href="https://html.com/"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
   <a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
-  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
-  <a href="https://www.ros.org/"><img src="https://skillicons.dev/icons?i=ros" /></a>&nbsp;
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a><br>
   <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" /></a>&nbsp;
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp;
   <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" /></a><br>
 </p>
 </div>
@@ -166,12 +169,12 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 
 <!--icons and links-->
 <p align="center">
+<a href="https://amitramrakhyani.vercel.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2ea1190d-ce9c-4b82-af1f-9ab0b5a48506" alt="portfolio" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/amitramrakhyani/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://x.com/AmitR_0911" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="X" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/amit_ramrakhyani_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://amitramrakhyani.me/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2ea1190d-ce9c-4b82-af1f-9ab0b5a48506" alt="portfolio" height="50" width="50" /></a>
-<a href="https://leetcode.com/u/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/155dc343-9754-473d-bc54-5baa6c0a5604" alt="leetcode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_amitramrakhyani_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
+<!-- <a href="https://leetcode.com/u/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/155dc343-9754-473d-bc54-5baa6c0a5604" alt="leetcode" height="50" width="50" /></a>
 
 </p>
 
