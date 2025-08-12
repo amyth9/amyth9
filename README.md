@@ -131,7 +131,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>&nbsp;
   <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" /></a>&nbsp;
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a><br>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>&nbsp;
@@ -139,9 +139,9 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" /></a>&nbsp;
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp;
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>&nbsp;
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a><br>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>&nbsp;
   <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a>&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" /></a><br>
   <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>&nbsp;
   <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" /></a>&nbsp;
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>&nbsp;
@@ -151,7 +151,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <a href="https://html.com/"><img src="https://skillicons.dev/icons?i=html" /></a>&nbsp;
   <a href="https://skillicons.dev/icons?i=css"><img src="https://skillicons.dev/icons?i=css" /></a>&nbsp;
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>&nbsp;
-  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" /></a>&nbsp;
+  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md" /></a><br>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp;
   <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" /></a>&nbsp;
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp;
