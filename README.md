@@ -69,17 +69,14 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+  <td width="50%" align="center">
+    <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=amyth9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats" />
+    <br>
+    <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=amyth9&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+  </td>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amyth9&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amyth9&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amyth9&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amyth9&theme=react&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   </td>
 </tr>
 </table>
