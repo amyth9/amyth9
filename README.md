@@ -95,7 +95,7 @@ I am <a href="https://www.amitramrakhyani.me/" target="_blank">Amit Ramrakhyani<
 </p>        
 <!--- stats (end) -->
 <div align="center">
-<h2 align="center">😎 Top Skills 😎</h2>
+<h2 align="center">Skills</h2>
     <div align="center">
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
         <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-%2335495e.svg?style=for-the-badge" /></a>
